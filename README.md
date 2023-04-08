@@ -4,4 +4,4 @@ This repository contains notebooks that I made following the [Pandas tutorial se
 
 The dataset used in the notebooks is the [Stack Overflow Annual Developer Survey (2019)](https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2019.zip).
 
-My primary goal for mmaking these was to learn Pandas myself. Secondary goals were: improving my explanation style and providing easy-to-follow guides that may save someone time in the future.
+My primary goal for making these was to learn Pandas myself. Secondary goals were: improving my explanation style and providing easy-to-follow guides that may save someone time in the future.
